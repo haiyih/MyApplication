@@ -1,4 +1,4 @@
-package com.cs407.helloworld;
+package com.cs407.MyApplication;
 
 import android.content.Context;
 
